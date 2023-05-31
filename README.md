@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**TAs a student of Computer Science & Engineering seeking a job in a well-known organization where I can use my knowledge and skill and have the opportunity to learn more which will lead me toward the path of my chosen. .
+###TAs a student of Computer Science & Engineering seeking a job in a well-known organization where I can use my knowledge and skill and have the opportunity to learn more which will lead me toward the path of my chosen. .
 
 Here are some ideas to get you started:
 
