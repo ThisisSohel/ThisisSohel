@@ -1,7 +1,7 @@
 ![1](https://github.com/ThisisSohel/ThisisSohel/assets/97689065/3e60764a-3fbb-46ce-a243-bb66bcc308ed)
 ### Hi there 👋
 
-<!--
+
 ###TAs a student of Computer Science & Engineering seeking a job in a well-known organization where I can use my knowledge and skill and have the opportunity to learn more which will lead me toward the path of my chosen. .
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
