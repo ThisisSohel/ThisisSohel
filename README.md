@@ -1,3 +1,4 @@
+![MyGitHubCover](https://github.com/ThisisSohel/ThisisSohel/assets/97689065/9be5fdaa-cf09-4d56-8572-e252624657a1)
 ![1](https://github.com/ThisisSohel/ThisisSohel/assets/97689065/c39bded4-f78f-4a04-9554-c71cfb1aa146)
 ### Hi there 👋, This is Sohel
 #### IT Engineer
