@@ -5,7 +5,7 @@ As a student of Computer Science & Engineering seeking a job in a well-known org
 
 Skills: Python/PHP/C++/C/JavaScript/NodeJs/HTML/CSS/SQL/PL-SQL/MngoDB/Machine Learning/GitHub
 
-- 🔭 I’m currently working on  B-JET as Japanese Language and Software Engineer Trainee 
+#- 🔭 I’m currently working on  B-JET as Japanese Language and Software Engineer Trainee 
 - 🌱 I’m currently learning Japanese Language, NodeJs. 
 - 👯 I’m looking to collaborate on Software Engineer and AI Engineer 
 - 📫 How to reach me: You can reach me through mail-mdsrana11@gmail.com 
