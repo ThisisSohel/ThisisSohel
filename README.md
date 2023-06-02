@@ -8,7 +8,7 @@ Skills: Python/PHP/C++/C/JavaScript/NodeJs/HTML/CSS/SQL/PL-SQL/MngoDB/Machine Le
 - 🔭 I’m currently working on  B-JET as Japanese Language and Software Engineer Trainee
 - 🌱 I’m currently learning Japanese Language, NodeJs. 
 - 👯 I’m looking to collaborate on Software Engineer and AI Engineer 
-- 📫 How to reach me: You can reach me through mail-mdsrana11@gmail.com 
+- 📫 How to reach me: You can reach me through mdsrana11@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThisisSohel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/invalid:///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/touhidujjaman.sohel.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sohel-Rana)  
