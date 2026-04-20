@@ -1,7 +1,7 @@
 ![MyGitHubCover](https://github.com/ThisisSohel/ThisisSohel/assets/97689065/9be5fdaa-cf09-4d56-8572-e252624657a1)
 ### Hi there 👋, This is Sohel
 #### IT Engineer
-As a graduate of Computer Science & Engineering seeking a job in a well-known organization where I can use my knowledge and skills and have the opportunity to learn more, which will lead me toward the path of my chosen.
+As a graduate of Computer Science & Engineering seeking a job in a well-known organization where I can use my knowledge and skills and have the opportunity to learn more, which will lead me toward the path of my choice.
 
 Skills: C#/Python/C++/C/TypeScript/JavaScript/.NET/Angular/jQuery/HTML/CSS/SQL//Machine Learning/Git
 
