@@ -38,23 +38,24 @@ I am a **Computer Science & Engineering graduate** and a dedicated **Software En
 
 - 🌍 Based in **Dhaka, Bangladesh**
 - 🎓 **B.Sc. in Computer Science & Engineering**
-- ⚡ Deeply passionate about **Domain-Driven Design (DDD)**, **Clean Architecture**, and **High-Frequency Data Integration**
+- ⚡ Deeply passionate about **Domain-Driven Design (DDD)**, **Clean Architecture**, and **High-Performance Enterprise Integration**
 - 🧠 Active **Competitive Programmer** who loves breaking down complex algorithms and data structures
 
 ---
 
 ### 💼 Professional Experience
 
-**Junior Software Engineer** | [Mediasoft Data Systems Limited](https://mediasoftbd.com/) *(Present)*
+** Software Engineer** | [Mediasoft Data Systems Limited](https://mediasoftbd.com/) *(Present)*
 *   Architect and develop robust enterprise solutions using **C#**, **.NET Core Web API**, and **Angular / TypeScript**.
-*   Design and manage enterprise payroll systems using complex **SQL Server joined queries** and optimized **LINQ projections**.
-*   Engineered high-frequency medical device communications, successfully integrating **Laboratory Information Systems (LIS)** with hardware instruments including **Sysmex XN-1000** and **Siemens Dimension EXL-200**.
+*   Design, refactor, and maintain complex **Enterprise Payroll Systems** using performance-optimized **SQL Server joined queries** and **LINQ projections**.
+*   Coordinate technical workflows transforming system data into structured business reports, including salary sheets and attendance auditing.
 
 ---
 
 ### 🚀 Current Focus & Engineering Domain
 
-*   **Healthcare Software Solutions:** Building real-time automation pipelines for Medical Analyzer Communications and low-level data syncing.
+*   **Enterprise Payroll Systems:** Developing precise automated calculation sheets, attendance tracking mechanisms, and robust backend payroll processing logic.
+*   **Warehouse Management Systems (WMS):** Engineering scalable structures for tracking inventory workflows, high-volume stock logs, and multi-tenant warehouse automation data.
 *   **Backend Decoupling:** Implementing **Clean Architecture** patterns utilizing **MediatR** for CQRS (Command Query Responsibility Segregation) and **FluentValidation** for clean, request-pipeline validation rules.
 *   **Frontend Modularization:** Constructing strongly-typed, scalable responsive interfaces using Angular state management and modern TypeScript structures.
 
@@ -109,17 +110,17 @@ I am a **Computer Science & Engineering graduate** and a dedicated **Software En
   <tr>
     <td width="50%">
       <h4>🏢 Enterprise Payroll & Attendance Engine</h4>
-      <p>A comprehensive workforce management module utilizing performance-optimized SQL joined queries and precise LINQ mappings to process enterprise hierarchies and high-volume monthly payouts cleanly.</p>
+      <p>A comprehensive workforce management module utilizing performance-optimized SQL joined queries and precise LINQ mappings to process enterprise hierarchies, complex salary sheets, and high-volume monthly payouts cleanly.</p>
       <p>
         <img src="https://img.shields.io/badge/Tech-C%23%20%7C%20.NET%20%7C%20SQL%20Server-blue?style=flat-square" alt="Tech Stack" />
       </p>
       <!-- <a href="YOUR_PROJECT_LINK_1">View Repository →</a> -->
     </td>
     <td width="50%">
-      <h4>🏥 LIS Medical Analyzer Gateway</h4>
-      <p>Hardware-to-software integration layer built for Mediasoft LIS platforms. Manages structured stream communication interfaces for automated medical devices, processing data streams seamlessly.</p>
+      <h4>📦 Automated Warehouse Management System (WMS)</h4>
+      <p>A business-critical backend module designed using Clean Architecture to manage stock allocation tracking, dynamic log streaming, and highly efficient product sorting workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-C%23%20%7C%20HL7%20%7C%20Network%20Sockets-brightgreen?style=flat-square" alt="Tech Stack" />
+        <img src="https://img.shields.io/badge/Tech-C%23%20%7C%20.NET%20Core%20%7C%20Web%20API-brightgreen?style=flat-square" alt="Tech Stack" />
       </p>
       <!-- <a href="YOUR_PROJECT_LINK_2">View Repository →</a> -->
     </td>
