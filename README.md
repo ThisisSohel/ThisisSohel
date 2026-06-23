@@ -20,9 +20,9 @@
 
 I am a Computer Science & Engineering graduate and an aspiring Software Engineer passionate about crafting high-performance, scalable web and desktop applications. 
 
-Currently, I am working as a **Junior Software Engineer** at **Mediasoft Data Systems Limited**, where I build robust enterprise solutions using C#, .NET, Angular, and TypeScript.
+Currently, I am working as a ** Software Engineer** at **Mediasoft Data Systems Limited**, where I build robust enterprise solutions using C#, .NET, Angular, and TypeScript.
 
-- 🔭 **Current Role:** Junior Software Engineer at [Mediasoft Data Systems Limited](https://mediasoftbd.com/)
+- 🔭 **Current Role:** Software Engineer at [Mediasoft Data Systems Limited](https://mediasoftbd.com/)
 - 💻 **Tech Stack Focus:** C#, .NET Framework & Core, Angular, TypeScript, and SQL databases
 - 🚀 **Goals:** Continuously learning new technologies, writing clean code, and optimizing software performance
 - 💬 **Ask me about:** Web development, C#, Angular, and algorithm design/competitive programming
@@ -63,7 +63,6 @@ Currently, I am working as a **Junior Software Engineer** at **Mediasoft Data Sy
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
     </td>
   </tr>
 </table>
@@ -81,29 +80,16 @@ Currently, I am working as a **Junior Software Engineer** at **Mediasoft Data Sy
 
 ### 📊 Performance & Activity
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ThisisSohel&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Sohel's GitHub Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisSohel&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=ThisisSohel&theme=radial&hide_border=true" alt="GitHub Streak Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://activity-graph.herokuapp.com/graph?username=ThisisSohel&bg_color=0f141c&color=e284f3&line=e284f3&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="400" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/ThisisSohel?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisisSohel&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Sohel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisSohel&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/ThisisSohel" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com/?user=ThisisSohel&theme=radial&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisisSohel&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ThisisSohel/count.svg" alt="Profile Views" />
 </p>
