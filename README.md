@@ -1,10 +1,22 @@
+<!-- 
+==================================================================================
+  🚀 SOHEL RANA - PROFESSIONAL GITHUB PROFILE README
+  📅 Optimized for 2026 Engineering Standards & Recruiter Visibility
+==================================================================================
+  INSTRUCTIONS:
+  1. Copy this entire block and paste it directly into your README.md file.
+  2. Replace the placeholder links (marked with capital letters like "YOUR_LINKEDIN_USERNAME") with your actual links.
+==================================================================================
+-->
+
 <p align="center">
-  <img src="https://github.com/ThisisSohel/ThisisSohel/assets/97689065/9be5fdaa-cf09-4d56-8572-e252624657a1" alt="Sohel's Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://github.com/ThisisSohel/ThisisSohel/assets/97689065/9be5fdaa-cf09-4d56-8572-e252624657a1" alt="Sohel Rana - Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi there, I'm Sohel 👋</h1>
+<h1 align="center">Hi there, I'm Sohel Rana 👋</h1>
+
 <p align="center">
-  <strong>Software Engineer | C# • .NET • Angular Developer</strong>
+  <strong>Software Engineer | .NET Core & Angular Specialist | Enterprise Solutions Architect</strong>
 </p>
 
 <p align="center">
@@ -14,18 +26,37 @@
   <a href="mailto:mdsrana11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ThisisSohel/count.svg" alt="Profile Views" />
+</p>
+
 ---
 
 ### 💫 About Me
 
-I am a Computer Science & Engineering graduate and an aspiring Software Engineer passionate about crafting high-performance, scalable web and desktop applications. 
+I am a **Computer Science & Engineering graduate** and a dedicated **Software Engineer** specializing in crafting high-performance, scalable enterprise web and desktop applications. My engineering philosophy revolves around writing clean, testable code, optimizing software performance, and applying decoupled architectural patterns to solve complex domain problems.
 
-Currently, I am working as a ** Software Engineer** at **Mediasoft Data Systems Limited**, where I build robust enterprise solutions using C#, .NET, Angular, and TypeScript.
+- 🌍 Based in **Dhaka, Bangladesh**
+- 🎓 **B.Sc. in Computer Science & Engineering**
+- ⚡ Deeply passionate about **Domain-Driven Design (DDD)**, **Clean Architecture**, and **High-Frequency Data Integration**
+- 🧠 Active **Competitive Programmer** who loves breaking down complex algorithms and data structures
 
-- 🔭 **Current Role:** Software Engineer at [Mediasoft Data Systems Limited](https://mediasoftbd.com/)
-- 💻 **Tech Stack Focus:** C#, .NET Framework & Core, Angular, TypeScript, and SQL databases
-- 🚀 **Goals:** Continuously learning new technologies, writing clean code, and optimizing software performance
-- 💬 **Ask me about:** Web development, C#, Angular, and algorithm design/competitive programming
+---
+
+### 💼 Professional Experience
+
+**Junior Software Engineer** | [Mediasoft Data Systems Limited](https://mediasoftbd.com/) *(Present)*
+*   Architect and develop robust enterprise solutions using **C#**, **.NET Core Web API**, and **Angular / TypeScript**.
+*   Design and manage enterprise payroll systems using complex **SQL Server joined queries** and optimized **LINQ projections**.
+*   Engineered high-frequency medical device communications, successfully integrating **Laboratory Information Systems (LIS)** with hardware instruments including **Sysmex XN-1000** and **Siemens Dimension EXL-200**.
+
+---
+
+### 🚀 Current Focus & Engineering Domain
+
+*   **Healthcare Software Solutions:** Building real-time automation pipelines for Medical Analyzer Communications and low-level data syncing.
+*   **Backend Decoupling:** Implementing **Clean Architecture** patterns utilizing **MediatR** for CQRS (Command Query Responsibility Segregation) and **FluentValidation** for clean, request-pipeline validation rules.
+*   **Frontend Modularization:** Constructing strongly-typed, scalable responsive interfaces using Angular state management and modern TypeScript structures.
 
 ---
 
@@ -33,31 +64,34 @@ Currently, I am working as a ** Software Engineer** at **Mediasoft Data Systems 
 
 <table>
   <tr>
-    <td align="center" width="120"><strong>Frontend</strong></td>
+    <td align="center" width="130"><strong>Backend & Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/.NET%20Core%20%2F%20Framework-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET Core" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core%20Web%20API-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/MediatR%20(CQRS)-8A2BE2?style=flat-square" alt="MediatR" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend Engine</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><strong>Backend</strong></td>
+    <td align="center"><strong>Databases & Architecture</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Clean%20Architecture-blue?style=flat-square" alt="Clean Architecture" />
+      <img src="https://img.shields.io/badge/FluentValidation-green?style=flat-square" alt="FluentValidation" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="120"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><strong>Other</strong></td>
+    <td align="center"><strong>Foundational & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
@@ -69,27 +103,29 @@ Currently, I am working as a ** Software Engineer** at **Mediasoft Data Systems 
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ThisisSohel&theme=radial&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
+### 📂 Featured Systems & Codebases
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏢 Enterprise Payroll & Attendance Engine</h4>
+      <p>A comprehensive workforce management module utilizing performance-optimized SQL joined queries and precise LINQ mappings to process enterprise hierarchies and high-volume monthly payouts cleanly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-C%23%20%7C%20.NET%20%7C%20SQL%20Server-blue?style=flat-square" alt="Tech Stack" />
+      </p>
+      <!-- <a href="YOUR_PROJECT_LINK_1">View Repository →</a> -->
+    </td>
+    <td width="50%">
+      <h4>🏥 LIS Medical Analyzer Gateway</h4>
+      <p>Hardware-to-software integration layer built for Mediasoft LIS platforms. Manages structured stream communication interfaces for automated medical devices, processing data streams seamlessly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-C%23%20%7C%20HL7%20%7C%20Network%20Sockets-brightgreen?style=flat-square" alt="Tech Stack" />
+      </p>
+      <!-- <a href="YOUR_PROJECT_LINK_2">View Repository →</a> -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Performance & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisisSohel&show_icons=true&count_private=true&theme=radial&hide_border=true" alt="Sohel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisSohel&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ThisisSohel&theme=radial&hide_border=true" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThisisSohel&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ThisisSohel/count.svg" alt="Profile Views" />
-</p>
+### 🎯 Learning & Long-Term Roadmap
