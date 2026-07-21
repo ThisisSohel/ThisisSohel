@@ -6,8 +6,9 @@
 <div align="center">
 
 <!-- BANNER — replace with your own banner image or remove this block -->
-<img src="https://github.com/ThisisSohel/ThisisSohel/assets/97689065/9be5fdaa-cf09-4d56-8572-e252624657a1"
-     alt="Sohel Rana — Banner" width="100%" style="border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/ThisisSohel/ThisisSohel/main/thisIsSohel.png"
+     alt="Sohel Rana Banner"
+     width="100%">
 
 <br /><br />
 
